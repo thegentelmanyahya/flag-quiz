@@ -26,10 +26,10 @@ To get a local copy up and running, follow these steps:
 2. **Navigate to the project**:
      ```bash
      cd flag-quiz
-3.**install necessary files for the project**:
+3. **install necessary files for the project**:
     ```bash
     npm install
-4.**Run the js file**:
+4. **Run the js file**:
     ```bash
     nodemon index.js
 
